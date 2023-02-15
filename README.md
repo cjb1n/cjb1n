@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=200&section=header&text=JeongBin&fontSize=90&color=white" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=200&section=header&text=JeongBin&fontSize=90" />
 ### Hi there 👋
 
 <!--
