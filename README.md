@@ -2,13 +2,14 @@
 
 <h1>Career & Academy</h1>
 <h3>
-:blush:BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12
+:cloud: BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12
 - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..
    Related project
    1. Spring petclinic 3Tier(AWS 3TIer)
    2. EKS environment website using open source to reduce costs(AWS EKS Cluster)</h3>
    
-<h3>* SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
+<h3>
+:imp: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
 
 <h1>Cloud</h1>
 <h3>CSP</h3>
