@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongBin&fontSize=90" />
 
 <h3>Container</h3>
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 </div>
