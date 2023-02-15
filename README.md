@@ -13,7 +13,6 @@ Related project
 2. EKS environment website using open source to reduce costs(AWS EKS Cluster)
 <h3>:lock: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
 
-<hr>
 <br>
 
 <h1>Certificate</h1>
@@ -28,7 +27,6 @@ Related project
 	<img width="90" height="90" alt="스크린샷 2023-02-15 오후 5 54 03" src="https://user-images.githubusercontent.com/86945783/218980010-a97959f1-92fe-4205-b52b-ab0380685ad2.png">
 </div>
 
-<hr>
 <br>
 	
 <h1>Cloud Tech Stack</h1>
