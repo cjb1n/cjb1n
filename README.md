@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=200&section=header&text=JeongBin&fontSize=90" />
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JeongBin&fontSize=90" />
+
 
 <!--
 **cjb1n/cjb1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
