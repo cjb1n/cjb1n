@@ -14,6 +14,7 @@ Related project
 <h3>:lock: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
 
 <br>
+<br>
 
 <h1>Certificate</h1>
 <h3>AWS Certified Solutions Architect - Associate<h3>
@@ -28,6 +29,8 @@ Related project
 </div>
 
 <br>
+<br>
+
 	
 <h1>Cloud Tech Stack</h1>
 <h3>Project Link</h3>
