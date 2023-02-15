@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JeongBin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongBin&fontSize=90" />
 
+<img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
 
 <!--
 **cjb1n/cjb1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
