@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongBin&fontSize=90" />
-<h2>Cloud</h2>
+<h1>Cloud</h1>
+<h3>CSP</h3>
+<div>
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
+</div>
 <h3>Container</h3>
 <div>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
@@ -22,7 +28,7 @@
 <hr>
 
 
-<h2>Mobile app development</h2>
+<h1>Mobile app development</h1>
 <h3>Framework</h3>
 <div>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
