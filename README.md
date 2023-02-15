@@ -11,7 +11,8 @@
 <h3>
 :imp: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08
 </h3>
-<p></p>
+
+<br>
 
 <h1>Cloud</h1>
 <h3>CSP</h3>
