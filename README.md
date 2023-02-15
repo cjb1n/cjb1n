@@ -13,6 +13,9 @@ Related project
 
 <br>
 
+<h1>Certificate</h1>
+AWS Certified Solutions Architect - Associate
+
 <h1>Cloud</h1>
 <h3>CSP</h3>
 <div>
