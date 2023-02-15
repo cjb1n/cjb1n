@@ -17,3 +17,25 @@
 	<img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white" />
 </div>
+
+
+<hr>
+
+
+<h2>Mobile app development</h2>
+<h3>Framework</h3>
+<div>
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+</div>
+<h3>Tools</h3>
+<div>
+	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
+</div>
+<h3>Language</h3>
+<div>
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
+</div>
+<h3>DataBase</h3>
+<div>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+</div>
