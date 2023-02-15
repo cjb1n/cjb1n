@@ -10,9 +10,8 @@ Related project
 1. Spring petclinic 3Tier(AWS 3TIer)
 2. EKS environment website using open source to reduce costs(AWS EKS Cluster)
 <h3>:imp: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
-
-<br>
 <img width="100" alt="스크린샷 2023-02-13 오후 4 53 26" src="https://user-images.githubusercontent.com/86945783/218972221-83cc11fe-cd6c-4710-b108-93bfe1d56efc.png">
+<br>
 
 <h1>Certificate</h1>
 <h3>AWS Certified Solutions Architect - Associate<h3>
