@@ -6,7 +6,7 @@
 - Flutter, Dart, Firebase, Android Studio, Android, IOS etc..
 <h3>:cloud: BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3>
 - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..
-<h3>Related project</h3>
+Related project
 1. Spring petclinic 3Tier(AWS 3TIer)
 2. EKS environment website using open source to reduce costs(AWS EKS Cluster)
 <h3>:imp: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
