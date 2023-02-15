@@ -27,7 +27,10 @@ Related project
 </div>
 <br>
 
+	
 <h1>Cloud Tech Stack</h1>
+<h3>Project Link</h3>
+<a href=https://github.com/cjb1n/AWeSomeFinal>Container 3Tier Project</href>
 <h3>CSP</h3>
 <div>
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
@@ -82,7 +85,8 @@ Related project
 
 
 <h1>Mobile app development Tech Stack</h1>
-<a href=https://github.com/cjb1n/onepick>원픽 프로젝트</href>
+<h3>Project Link</h3>
+<a href=https://github.com/cjb1n/onepick>One Pick Project</href>
 <h3>Framework</h3>
 <div>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
