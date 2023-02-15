@@ -2,7 +2,7 @@
 
 <h1>Career & Academy</h1>
 
-<h3>:iphone: Mobile App <One Pick> development  - 2021.07 ~ 20222.01</h3>
+<h3>:iphone: Mobile App One Pick development  - 2021.07 ~ 20222.01</h3>
 - Flutter, Dart, Firebase, Android Studio, Android, IOS etc..
 <h3>:cloud: BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3>
 - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..
