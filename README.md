@@ -20,7 +20,7 @@ Related project
 
 <br>
 
-<h1>Cloud</h1>
+<h1>Cloud Stack</h1>
 <h3>CSP</h3>
 <div>
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
@@ -74,7 +74,7 @@ Related project
 <hr>
 
 
-<h1>Mobile app development</h1>
+<h1>Mobile app development Stack</h1>
 <h3>Framework</h3>
 <div>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
