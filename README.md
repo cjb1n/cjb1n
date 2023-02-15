@@ -12,7 +12,7 @@ Related project
 <h3>:imp: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
 
 <br>
-<img width="383" alt="스크린샷 2023-02-13 오후 4 53 26" src="https://user-images.githubusercontent.com/86945783/218972221-83cc11fe-cd6c-4710-b108-93bfe1d56efc.png">
+<img width="100" alt="스크린샷 2023-02-13 오후 4 53 26" src="https://user-images.githubusercontent.com/86945783/218972221-83cc11fe-cd6c-4710-b108-93bfe1d56efc.png">
 
 <h1>Certificate</h1>
 <h3>AWS Certified Solutions Architect - Associate<h3>
