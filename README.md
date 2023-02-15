@@ -100,5 +100,4 @@ Related project
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjb1n&layout=compact&theme=tokyonight)
 
