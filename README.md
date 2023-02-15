@@ -36,6 +36,11 @@ Related project
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
 </div>
+<h3>CI/CD</h3>
+<div>
+	<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+</div>
 <h3>Monitoring</h3>
 <div>
 	<img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat&logo=Amazon CloudWatch&logoColor=white" />
