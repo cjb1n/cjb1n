@@ -14,6 +14,7 @@ Related project
 
 <h1>Certificate</h1>
 <h3>AWS Certified Solutions Architect - Associate<h3>
+<img width="130" alt="스크린샷 2023-02-15 오후 5 49 14" src="https://user-images.githubusercontent.com/86945783/218978848-c08c27aa-f292-4481-8bc2-93111ef46f61.png">
 <h3>MOS - PowerPoint</h3>
 <h3>Google Analytics Certification</h3>
 <img width="130" alt="스크린샷 2023-02-15 오후 5 46 19" src="https://user-images.githubusercontent.com/86945783/218977980-bb789de2-9d6b-4c2f-8d61-06e4fb73031e.png">
