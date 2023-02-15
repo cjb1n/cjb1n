@@ -82,6 +82,7 @@ Related project
 
 
 <h1>Mobile app development Tech Stack</h1>
+<a href=https://github.com/cjb1n/onepick>원픽 프로젝트</href>
 <h3>Framework</h3>
 <div>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
