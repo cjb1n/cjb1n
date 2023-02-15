@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/wjdqls8062@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongBin&fontSize=90" />
 
 <h1>Career & Academy</h1>
