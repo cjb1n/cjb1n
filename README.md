@@ -14,7 +14,12 @@ Related project
 <br>
 
 <h1>Certificate</h1>
-AWS Certified Solutions Architect - Associate
+<h3>AWS Certified Solutions Architect - Associate<h3>
+<h3>MOS - PowerPoint</h3>
+<h3>Google Analytics Certification</h3>
+<h3>Google Ads Search Certification</h3>
+
+<br>
 
 <h1>Cloud</h1>
 <h3>CSP</h3>
