@@ -6,6 +6,13 @@
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 </div>
 
+<h3>Orchestration</h3>
+<div>
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
+</div>
+Amazon EKS
+
 <!--
 **cjb1n/cjb1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
