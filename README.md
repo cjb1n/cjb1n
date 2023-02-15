@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongBin&fontSize=90" />
 
 <h1>Career & Academy</h1>
-
+<h3>:kr:staff sergeant - 2017.10 ~ 2020.10 </h3>
 <h3>:iphone: Mobile App One Pick development  - 2021.07 ~ 20222.01</h3>
 - Flutter, Dart, Firebase, Android Studio, Android, IOS etc..
 <h3>:cloud: BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3>
