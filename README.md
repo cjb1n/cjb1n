@@ -10,6 +10,7 @@ Related project
 1. Spring petclinic 3Tier(AWS 3TIer)
 2. EKS environment website using open source to reduce costs(AWS EKS Cluster)
 <h3>:lock: SK Shieldus Cloud Security training course  - 2023.02 ~ 2023.08</h3>
+- Python, security controls, simulated hacking, vulnerability diagnosis, cloud security consulting, architecture, privacy
 
 <br>
 <br>
